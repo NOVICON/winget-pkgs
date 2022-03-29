@@ -14,5 +14,15 @@ Installers:
   InstallerUrl: https://update.munixo.com/client_windows_stable/munixo-Client.5.0.65.14161.msi
   InstallerSha256: 2DD59F37C860ADC2434571C37BDE50F68E756B8138448D431E975501EA27778B
   ProductCode: '{1C723417-DC34-4D78-A8B5-B272A2B707B2}'
+  AppsAndFeaturesEntries:
+    - DisplayName: munixo Client
+      DisplayVersion: 5.0.65.14161
+      Publisher: Novicon GmbH
+      ProductCode: '{1C723417-DC34-4D78-A8B5-B272A2B707B2}'
+      UpgradeCode: '{3214383E-409D-485F-8B7F-E2207F569228}'
+    - DisplayName: munixo Client
+      DisplayVersion: 5.0.65.14161
+      Publisher: Novicon GmbH
+      ProductCode: 'munixo Client 5.0.65.14161'
 ManifestType: installer
 ManifestVersion: 1.1.0
